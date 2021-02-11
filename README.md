@@ -1,2 +1,2 @@
-# Exmample Repository
+# Example Repository
 **hello world**
